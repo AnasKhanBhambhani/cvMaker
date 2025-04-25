@@ -1,0 +1,564 @@
+
+SN,STATUS,ACCOUNT,Country,GROUP,PARENT COMPANY NAME,PARENT COMPNAY CODE,Plant Name,PLANT CODE,Site Name,X,SITE CODE,System SN,Model,
+1,TFS-EU,THERMO,Albania,Antea,Antea Cement Company,#REF!,Antea Cement Company,#REF!,Fushe Kruje,01,#REF!,,CBX,
+2,SL-PSA,SPECTRA,Algeria,Lafarge-Holcim,LafargeHolcim-Algeria,#REF!,"Lafarge-Algerian Cement Co, (LCM)",#REF!,Hydra-1,01,#REF!,821002,CBX,
+3,SL-PSA,SPECTRA,Algeria,Lafarge-Holcim,LafargeHolcim-Algeria,#REF!,"Lafarge-Algerian Cement Co, (LCM)",#REF!,Hydra-2,02,#REF!,821003,CBX,
+4,SL-PSA,SPECTRA,Algeria,Lafarge-Holcim,LafargeHolcim-Algeria,#REF!,Lafarge-Ciba Cement Company-(LCO),#REF!,Ciba Grey,01,#REF!,821083,CBX,
+5,SL-PSA,SPECTRA,Algeria,Lafarge-Holcim,LafargeHolcim-Algeria,#REF!,Lafarge--CILAS cement SPA (CILAS),#REF!,Cilas,01,#REF!,,OMNI,
+6,T&M,THERMO,Algeria,Biskaria,Biskaria Cement Spa,#REF!,Biskaria Cement Spa,#REF!,Biskeria-1,01,#REF!,823108,OMNI-N,
+7,T&M,THERMO,Algeria,Biskaria,Biskaria Cement Spa,#REF!,Biskaria Cement Spa,#REF!,Biskara-2,02,#REF!,823109,OMNI-N,
+8,T&M,THERMO,Algeria,Saoura,Société Saoura Ciments,#REF!,Société Saoura Ciments,#REF!,Bechar-1,01,#REF!,,OMNI-N,
+9,T&M,THERMO,Algeria,Saoura,Société Saoura Ciments,#REF!,Société Saoura Ciments,#REF!,Bechar-2,02,#REF!,,OMNI-N,
+10,NOT KNOWN,THERMO,Algeria,STG,STG Cement,#REF!,STG Cement,#REF!,Oliff,01,#REF!,,OMNI,
+11,TFS-RSA,THERMO,Angola,ANGOLA,Cimenfort Industrial,#REF!,Cimenfort Industrial,#REF!,Cimenfort,01,#REF!,,OMNI,
+12,SL-PSA,SPECTRA,Azerbaijan,NORM,Norm Cement Company,#REF!,Norm Cement Company,#REF!,Norm-1,01,#REF!,891119,OMNI,
+13,SL-PSA,SPECTRA,Azerbaijan,NORM,Norm Cement Company,#REF!,Norm Cement Company,#REF!,Norm-2,02,#REF!,891120,OMNI,
+14,SL-PSA,SPECTRA,Congo,Dangote,Dangote Cement-Congo,#REF!,Dangote Cement-Congo,#REF!,Congo,01,#REF!, ,OMNI,
+15,TFS-RSA,THERMO,DR-CONGO,Nyumba,Nyumba Ya Akiba DRC,#REF!,Nyumba Ya Akiba DRC,#REF!,DRC,01,#REF!,891207,OMNI,
+16,T&M,THERMO,Egypt,Lafarge-Holcim,Lafarge-Egyptian Cement Company ,#REF!,Lafarge-Egyptian Cement Company ,#REF!,ECC1,01,#REF!,820056,OMNI-R,
+17,Decom,THERMO,Egypt,Lafarge-Holcim,Lafarge-Egyptian Cement Company ,#REF!,Lafarge-Egyptian Cement Company ,#REF!,ECC2,02,#REF!,820086,CBGN,
+18,T&M,THERMO,Egypt,Lafarge-Holcim,Lafarge-Egyptian Cement Company ,#REF!,Lafarge-Egyptian Cement Company ,#REF!,ECC3,03,#REF!, ,OMNI,
+19,T&M,SPECTRA,Egypt,Misr Beni Suef,Misr Beni Suef Cement Company,#REF!,Misr Beni Suef Cement Company,#REF!,MBCC1,01,#REF!,820082,CBGN,
+20,T&M,SPECTRA,Egypt,Misr Beni Suef,Misr Beni Suef Cement Company,#REF!,Misr Beni Suef Cement Company,#REF!,MBCC2,02,#REF!,821128,CBX,
+21,NOT WORKING,SPECTRA,Egypt,South Valley,Souht Vally Cement Company,#REF!,Souht Vally Cement Company,#REF!,SVCC,01,#REF!,821134,CBX,
+22,TF-PSA,THERMO,Egypt,RAMLIYA,ACC-Ramliya Cement Company,#REF!,ACC-Ramliya Cement Company,#REF!,Ramliya,01,#REF!,825072,OMNI-R,
+23,TF-PSA,THERMO,Egypt,AMREYAH,"Amreyah Cement Co.,Egypt",#REF!,"Amreyah Cement Co.,Egypt",#REF!,Amreyah,01,#REF!,826025,OMNI-R,
+24,Decom,THERMO,Egypt,National,National Cement Company,#REF!,National Cement Company,#REF!,NCC,01,#REF!,820005,CBA,
+25,NOT WORKING,SPECTRA,Ethiopia,Messabo,Messabo Cement Company,#REF!,Messabo Cement Company,#REF!,Messabo-1,01,#REF!,822218,OMNI,
+26,NOT INSTALLED,SPECTRA,Ethiopia,Messabo,Messabo Cement Company,#REF!,Messabo Cement Company,#REF!,Messabo-2,02,#REF!,,OMNI,
+27,SL-PSA,SPECTRA,Ethiopia,Dangote,DANGOTE- CEMENT-ETHIOPEA,#REF!,DANGOTE CEMENT-ETHIOPEA,#REF!,DC-ETHIOPIA 1,01,#REF!,,OMNI,
+28,SL-I&C,SPECTRA,Ethiopia,Dangote,DANGOTE- CEMENT-ETHIOPEA,#REF!,DANGOTE CEMENT-ETHIOPEA,#REF!,DC-ETHIOPIA 2,02,#REF!,,OMNI,
+29,NO GO ,NO GO ,Iran,Sarooj,Sarouj Busher Cement Company- Polysius,#REF!,Sarouj Busher Cement Company- Polysius,#REF!,Busher,01,#REF!,821064,CBX,
+30,NO GO ,NO GO ,Iran,Shemal,Shemal Cement Company-VA Tech,#REF!,Shemal Cement Company-VA Tech,#REF!,Shemal,01,#REF!,821038,CBX,
+31,Decom,NO GO ,Iran,El Tebbin,National Cement-IRAN,#REF!,National Cement-IRAN,#REF!,El Tebbin,01,#REF!,,CBA,
+32,NO GO ,NO GO ,Iran,Khozestan,Karoon Cement Company,#REF!,Karoon Cement Company,#REF!,Khozestan,01,#REF!,,CBX,
+33,NO GO ,NO GO ,Iran,Nahavand,Nahavand Cement Company,#REF!,Nahavand Cement Company,#REF!,Nahavand,01,#REF!,,CBX,
+34,NO GO ,NO GO ,Iran,Lar,Sabzevar Cement Company,#REF!,Sabzevar Cement Company,#REF!,Lar,01,#REF!,,CBX,
+35,NO GO ,NO GO ,Iran,Semnen,Shahrood Cement Company,#REF!,Shahrood Cement Company,#REF!,Semnen,01,#REF!,,CBX,
+36,NO GO ,NO GO ,Iran,Bushehr,Kangan Cement,#REF!,Kangan Cement,#REF!,Bushehr,01,#REF!,,CBX,
+37,SL-PSA,SPECTRA,Iraq,Lafarge-Holcim,Lafrage-Bazian Cement Company-Iraq,#REF!,Lafrage-Bazian Cement Company-Iraq,#REF!,Baizan,01,#REF!,821090,CBX,
+38,NOT INSTALLED,SPECTRA,Iraq,Qarachog,KAR Cement Company,#REF!,KAR Cement Company,#REF!,Qarachog,01,#REF!,,OMNI,
+39,TF-PSA-EXP,THERMO,Jordan,Lafarge-Holcim,Lafarge-Rashadiya Cement Plant,#REF!,Lafarge-Rashadiya Cement Plant,#REF!,Rashadiya-1,01,#REF!,821139,CBX,
+40,TF-PSA-EXP,THERMO,Jordan,Lafarge-Holcim,Lafarge-Rashadiya Cement Plant,#REF!,Lafarge-Rashadiya Cement Plant,#REF!,Rashadiya-2,02,#REF!,821140,CBX,
+41,NOT WORKING,THERMO,Jordan,Lafarge-Holcim,Lafarge-Fuhais Cement Plant,#REF!,Lafarge-Fuhais Cement Plant,#REF!,Fuhais-1,01,#REF!,821137,CBX,
+42,NOT WORKING,THERMO,Jordan,Lafarge-Holcim,Lafarge-Fuhais Cement Plant,#REF!,Lafarge-Fuhais Cement Plant,#REF!,Fuhais-2,02,#REF!,821138,CBX,
+43,NOT INSTALLED,SPECTRA,Jordan,Al Qatrana,AL Qatrana Cement Company,#REF!,AL Qatrana Cement Company,#REF!,Qatrana,01,#REF!, ,OMNI,
+44,T&M,THERMO,Jordan,UTILITY,COAL ANALYZER,#REF!,COAL ANALYZER IN JORDAN,#REF!,UTILITY,01,#REF!,,ECA,
+45,NOT KNOWN,THERMO-EU,Kazakhstan,Caspi,Caspi Cement,#REF!,Caspi Cement,#REF!,Shetpe,01,#REF!,,OMNI,
+46,TFS-EU,THERMO,Kazakhstan,Kokshe,Kokshe Cement,#REF!,Kokshe Cement,#REF!,Kokshe-1,01,#REF!,,CBX,
+47,TFS-EU,THERMO,Kazakhstan,Kokshe,Kokshe Cement,#REF!,Kokshe Cement,#REF!,Kokshe-2,02,#REF!,,CBX,
+48,TFS-EU,THERMO,Kazakhstan,UTILITY,"Coal analyzer Project-2 ECA, 2 CQM",#REF!,COAL ANALYZER IN KAZA,#REF!,KAZAKISTAN,01,#REF!,,ECA,
+49,T&M,SPECTRA,Lebanon,LafargeHolcim,Lafarge-Holcim Cement Company Liban,#REF!,Lafarge-Holcim Cement Company Liban,#REF!,Chekka 1,01,#REF!,820021,CBA-GN,
+50,T&M,SPECTRA,Lebanon,LafargeHolcim,Lafarge-Holcim Cement Company Liban,#REF!,Lafarge-Holcim Cement Company Liban,#REF!,Chakka-3,02,#REF!,821081,CBX,
+51,TF-PSA,THERMO,Lebanon,SECIL,Ciment De Sibline Company ,#REF!,Ciment De Sibline Company ,#REF!,Sibline,01,#REF!,820036,OMNI-R,
+52,TF-PSA,THERMO,Lebanon,Cimenterie,Cimenterie National Cement Company,#REF!,Cimenterie National Cement Company,#REF!,Chekka 2,01,#REF!,820050,OMNI-R,
+53,TF-PSA,THERMO,Lebanon,Cimenterie,Cimenterie National Cement Company,#REF!,Cimenterie National Cement Company,#REF!,Chekka-4,02,#REF!,822307,OMNI,
+54,TF-PSA-EXP,THERMO,Libya,AUCC,Arab Union Cement Company,#REF!,Arab Union Cement Company,#REF!,AUCC,01,#REF!,821135,CBX,
+55,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim -Settat-Cement Plant,#REF!,Settat-1,01,#REF!,821059,OMNI-R,
+56,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim -Settat-Cement Plant,#REF!,Settat-2,02,#REF!,821060,OMNI-R,
+57,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim -Fes-Cement Plant,#REF!,Fes-1,01,#REF!,822195,OMNI,
+58,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim -Fes-Cement Plant,#REF!,Fes-2,02,#REF!,822196,OMNI,
+59,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim-Oujda- Cement Plant,#REF!,Oujda,01,#REF!,825051,EBA,
+60,T&M,SPECTRA,Morocco,CIMAR,Ciment Du Maroc,#REF!,Ciment Du Maroc-Ait Baha Cement ,#REF!,Ait Baha,01,#REF!,822175,OMNI,
+61,T&M,SPECTRA,Morocco,CIMAR,Ciment Du Maroc,#REF!,Ciment Du Maroc-Safi Cement Plant,#REF!,Safi,01,#REF!,822151,OMNI,
+62,NOT KNOWN,TFS-INDIA,Nepal,SAMRT,Samrat Cement,#REF!,Samrat Cement,#REF!,Kamanpur,01,#REF!,,OMNI,
+63,SL-PSA,SPECTRA,Nigeria,Lafarge-Holcim,Lafarge-UCC-Calabar Cement Company,#REF!,Lafarge-UCC-Calabar Cement Company,#REF!,Calabar-1,01,#REF!,821066,CBX,
+64,SL-PSA,SPECTRA,Nigeria,Lafarge-Holcim,Lafarge-UCC-Calabar Cement Company,#REF!,Lafarge-UCC-Calabar Cement Company,#REF!,Calabar-2,02,#REF!, ,OMNI,
+65,SL-PSA,SPECTRA,Nigeria,Lafarge-Holcim,Lafarge-UCC-Calabar Cement Company,#REF!,Lafarge-UCC-Calabar Cement Company,#REF!,Calabar-3,03,#REF!, ,OMNI,
+66,TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Obajana Cement Plant-Dangote,#REF!,Obajana-1,01,#REF!,821010,CBX-OMNI-R,
+67,TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Obajana Cement Plant-Dangote,#REF!,Obajana-2,02,#REF!,822224,OMNI,
+68,TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Obajana Cement Plant-Dangote,#REF!,Obajana-3,03,#REF!,821147,OMNI,
+69,TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Nigeria-Obajana Cement Plant,#REF!,Obajana-4,04,#REF!,823207,OMNI,
+70,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-1,01,#REF!,822202,OMNI,
+71,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-2,02,#REF!,822203,OMNI,
+72,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-3,03,#REF!,822204,OMNI,
+73,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-4,04,#REF!,822205,OMNI,
+74,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-5,05,#REF!,,OMNI,
+75,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-6,06,#REF!,,OMNI,
+76,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-7,07,#REF!,,OMNI,
+77,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-8,08,#REF!,,OMNI,
+78,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Benue Cement Company,#REF!,Benue-1,01,#REF!,822293,OMNI,
+79,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Benue Cement Company,#REF!,Benue-2,02,#REF!,822294,OMNI,
+80,SL/TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Nigeria-Okapella Cement Plant,#REF!,Okapella,01,#REF!,,OMNI,
+81,T&M,THERMO,Nigeria,BUA,Bua Cement Co.,#REF!,Bua Cement-Edu Plant,#REF!,Edu-1,01,#REF!,,OMNI,
+82,T&M,THERMO,Nigeria,BUA,Bua Cement Co.,#REF!,Bua Cement-Edu Plant,#REF!,Edu-2,02,#REF!,,OMNI,
+83,I&C,THERMO,Nigeria,BUA,Bua Cement Co.,#REF!,Bua Cement-Edu Plant,#REF!,Edu-3,03,#REF!,,OMNI,
+84,T&M,THERMO,Nigeria,BUA,Bua Cement Co.,#REF!,Bua Cement-Sokoto Plant,#REF!,Sokoto-1,01,#REF!,,OMNI,
+85,I&C,THERMO,Nigeria,BUA,Bua Cement Co.,#REF!,Bua Cement-Sokoto Plant,#REF!,Sokoto-2,02,#REF!,,OMNI,
+86,I&C,THERMO,Nigeria,MANGAL,MANGAL INDUSTRIES LTD,#REF!,MANGAL INDUSTRIES LTD,#REF!,MANGAL-1,01,#REF!,,OMNI,
+87,I&C,THERMO,Nigeria,MANGAL,MANGAL INDUSTRIES LTD,#REF!,MANGAL INDUSTRIES LTD,#REF!,MANGAL-1,02,#REF!,,OMNI,
+88,SL-PSA-EXP,SPECTRA,Oman,OCC,Oman Cement Company,#REF!,Oman Cement Company,#REF!,OCC-1,01,#REF!,822193,OMNI,
+89,SL-PSA-EXP,SPECTRA,Oman,OCC,Oman Cement Company,#REF!,Oman Cement Company,#REF!,OCC-2,02,#REF!,822198,OMNI,
+90,NOT INSTALLED,SPECTRA,Oman,RAYSUT,Raysut Cement Company,#REF!,Raysut Cement Company,#REF!,Raysut,01,#REF!,822132,OMNI,
+91,NOT WORKING,THERMO,Pakistan,,"FLSA Khairpur, PCCL",#REF!,"FLSA Khairpur, PCCL",#REF!,Khairpur,01,#REF!,825052,EBA,
+92,NOT WORKING,THERMO,Pakistan,,"Pakcem-Chakwal, PCCL",#REF!,"Pakcem-Chakwal, PCCL",#REF!,Chakwal,01,#REF!,825053,EBA,
+93,NOT WORKING,THERMO,Pakistan,Lucky,Dewan Cement  Company,#REF!,Dewan Cement  Company,#REF!,Dewan,01,#REF!,821052,CBX,
+94,T&M,THERMO,Pakistan,DG KHAN,DG KHAN CEMENT,#REF!,DG KHAN CEMENT,#REF!,DGK,01,#REF!,823187,OMNI,
+95,SL/TF-PSA,THERMO,Pakistan,Fauji foundation,FAUJI CEMENT CO.,#REF!,FAUJI CEMENT-Fateh Jhang,#REF!,FAUJI-1,01,#REF!,823110,OMNI,
+96,I&C,THERMO,Pakistan,Fauji foundation,FAUJI CEMENT CO.,#REF!,FAUJI CEMENT-DG Khan,#REF!,FAUJI-2,01,#REF!,,OMNI,
+97,TF-PSA,THERMO,Pakistan,Fauji foundation,Fauji Cement -Nizampur (Askari Cement),#REF!,Fauji Cement -Nizampur (Askari Cement),#REF!,Askari-1,01,#REF!,823129,OMNI,
+98,TF-PSA,THERMO,Pakistan,Fauji foundation,Fauji Cement -Nizampur (Askari Cement),#REF!,Fauji Cement -Nizampur (Askari Cement),#REF!,Askari-2,02,#REF!,823130,OMNI,
+99,WARRANTY,THERMO,Pakistan,Fauji foundation,Fauji Cement -Nizampur (Askari Cement),#REF!,Fauji Cement -Nizampur (Askari Cement),#REF!,Askari-3,03,#REF!,881086,OMNI,
+100,T&M,THERMO,Pakistan,Pinoneer-PK,Pioneer Cement-Pakistan,#REF!,Pioneer Cement-Pakistan,#REF!,Pioneer-Pak,01,#REF!,823187,OMNI,
+101,TF-PSA-EXP,THERMO,Qatar,QNCC,Qatar National Cement,#REF!,Qatar National Cement,#REF!,QNCC1,01,#REF!,821046,CBX,
+102,TF-PSA-EXP,THERMO,Qatar,QNCC,Qatar National Cement,#REF!,Qatar National Cement,#REF!,QNCC2,02,#REF!,821127,CBX,
+103,TF-PSA-EXP,THERMO,Qatar,QNCC,Qatar National Cement,#REF!,Qatar National Cement,#REF!,QNCC3,03,#REF!,,OMNI-N,
+104,TF-PSA,THERMO,Qatar,Al Khalij,Al Khalij cement-GCC-Doha,#REF!,Al Khalij cement-GCC-Doha,#REF!,GCC-1,01,#REF!,821150,CBX,
+105,T&M,THERMO,Qatar,Al Khalij,Al Khalij cement-GCC-Doha,#REF!,Al Khalij cement-GCC-Doha,#REF!,GCC-2,02,#REF!,821151,CBX,
+106,T&M,THERMO,Qatar,Al Khalij,Al Khalij cement-GCC-Doha,#REF!,Al Khalij cement-GCC-Doha,#REF!,GCC-3,03,#REF!,,OMNI,
+107,TF-PSA-EXP,THERMO,Saudi,SAFA,Lafarge-SAFWA Cement Company,#REF!,Lafarge-SAFWA Cement Company,#REF!,safwa,01,#REF!,821149,CBX,
+108,Decom,THERMO,Saudi,SCC,Saudi Cement-Company-Hofuf,#REF!,Saudi Cement-Company-Hofuf,#REF!,Hofuf 1,1,#REF!,820003,CBA,
+109,Decom,THERMO,Saudi,SCC,Saudi Cement-Company-Hofuf,#REF!,Saudi Cement-Company-Hofuf,#REF!,Hofuf 2,2,#REF!,820004,CBA-GN,
+110,T&M,THERMO,Saudi,SCC,Saudi Cement-Company-Hofuf,#REF!,Saudi Cement-Company-Hofuf,#REF!,Hofuf-3,3,#REF!,821103,CBX,
+111,T&M,THERMO,Saudi,SCC,Saudi Cement-Company-Hofuf,#REF!,Saudi Cement-Company-Hofuf,#REF!,Hofuf-4,4,#REF!,821104,OMNI-R,
+112,T&M,THERMO,Saudi,SCC,Saudi Cement-Company-Hofuf,#REF!,Saudi Cement-Company-Hofuf,#REF!,Hofuf-5,5,#REF!,821105,OMNI-R,
+113,NOT WORKING,THERMO,Saudi,RCC,Riyadh Cement Company,#REF!,Riyadh Cement Company,#REF!,RCC-1,1,#REF!,821067,CBX,
+114,NOT INSTALLED,THERMO,Saudi,RCC,Riyadh Cement Company,#REF!,Riyadh Cement Company,#REF!,RCC-2,2,#REF!,821154,CBX,
+115,T&M,THERMO,Saudi,CCC,City Cement Company,#REF!,City Cement Company,#REF!,CCC,1,#REF!,821069,OMNI-R,
+116,T&M,THERMO,Saudi,CCC,City Cement Company,#REF!,City Cement Company,#REF!,CCC-2,2,#REF!,,OMNI,
+117,Decom,THERMO,Saudi,NCC,Najran Cement Co. (NCC),#REF!,Najran Cement Co. (NCC),#REF!,NCC-1,1,#REF!,821071,CBX,
+118,Decom,THERMO,Saudi,NCC,Najran Cement Co. (NCC),#REF!,Najran Cement Co. (NCC),#REF!,NCC-2,2,#REF!,821091,CBX,
+119,SL-PSA,SPECTRA,Saudi,NRCC,Norther Region Cement (NRCC),#REF!,Norther Region Cement (NRCC),#REF!,NRCC-1,01,#REF!,821100,CBX,
+120,SL-PSA,SPECTRA,Saudi,NRCC,Norther Region Cement (NRCC),#REF!,Norther Region Cement (NRCC),#REF!,NRCC-2,02,#REF!,822321,OMNI,
+121,T&M,SPECTRA,Saudi,TABUK,Tabuk Cement Company,#REF!,Tabuk Cement Company,#REF!,Tabuk-1,1,#REF!,820023,CBA-GN,
+122,T&M,SPECTRA,Saudi,TABUK,Tabuk Cement Company,#REF!,Tabuk Cement Company,#REF!,TABUK-2,2,#REF!,,OMNI,
+123,SL-I&C,SPECTRA,Saudi,SPCC,Southern Province Cement Co,#REF!,Southern Province Cement Co,#REF!,Bisha-1,1,#REF!,820099,OMNI-R,
+124,I&C,THERMO,Saudi,SPCC,Southern Province Cement Co,#REF!,Southern Province Cement Co,#REF!,Bisha-2,2,#REF!,,OMNI,
+125,SL-WARR,SPECTRA,Saudi,SPCC,Southern Province Cement Co,#REF!,Southern Province Cement Co,#REF!,Jazan,01,#REF!,820098,OMNI-R,
+126,T&M,THERMO,Saudi,SPCC,Southern Province Cement Co,#REF!,Southern Province Cement Co,#REF!,Tahama-1,1,#REF!,821047,CBX,
+127,T&M,THERMO,Saudi,SPCC,Southern Province Cement Co,#REF!,Southern Province Cement Co,#REF!,Tahama-2,2,#REF!,,OMNI,
+128,T&M,THERMO,Saudi,QCC,Qassim Cement Company,#REF!,Qassim Cement Company,#REF!,Qassim,1,#REF!,820078,CBGN,
+129,SL-PSA,SPECTRA,Saudi,EPCC,Eastern Province Cement Co,#REF!,Eastern Province Cement Co,#REF!,EPCC-1,01,#REF!,820089,OMNI-R,
+130,SL-PSA,SPECTRA,Saudi,EPCC,Eastern Province Cement Co,#REF!,Eastern Province Cement Co,#REF!,EPCC-2,02,#REF!,822249,OMNI,
+131,SL-I&C,SPECTRA,Saudi,EPCC,Eastern Province Cement Co,#REF!,Eastern Province Cement Co,#REF!,EPCC-3,03,#REF!,TO BE ADVISED,OMNI,
+132,Decom,THERMO,Saudi,ACC,Arabian Cement Company,#REF!,Arabian Cement Company,#REF!,Rabigh,1,#REF!,820005,CBA,
+133,NOT INSTALLED,THERMO,Saudi,AL Jouf,Al-Jauf Cement Company,#REF!,Al-Jauf Cement Company,#REF!,Al-Jauf-1,1,#REF!,822154,OMNI,
+134,NOT INSTALLED,THERMO,Saudi,AL Jouf,Al-Jauf Cement Company,#REF!,Al-Jauf Cement Company,#REF!,Al-Jauf-2,2,#REF!,822155,OMNI,
+135,NOT INSTALLED,THERMO,Saudi,AL Jouf,Al-Jauf Cement Company,#REF!,Al-Jauf Cement Company,#REF!,Al-Jauf-3,3,#REF!, ,OMNI,
+136,T&M,THERMO,Saudi ,UCIC,United Cement Industrial Company (UCIC),#REF!,United Cement Industrial Company (UCIC),#REF!,UCIC-1,1,#REF!,,OMNI,
+137,T&M,THERMO,Saudi ,UCIC,United Cement Industrial Company (UCIC),#REF!,United Cement Industrial Company (UCIC),#REF!,UCIC-2,2,#REF!,,OMNI,
+138,TF-PSA,THERMO,Saudi ,UACC,UMM AL-QURA Cement Company (UACC),#REF!,UMM AL-QURA Cement Company (UACC),#REF!,UACC1,1,#REF!,981192,OMNI,
+139,TF-PSA,THERMO,Saudi ,UACC,UMM AL-QURA Cement Company (UACC),#REF!,UMM AL-QURA Cement Company (UACC),#REF!,UACC1,2,#REF!,,OMNI,
+140,T&M,THERMO,Saudi ,YAMAMA,Yamama Cement Co.,#REF!,Yamama Cement Co.,#REF!,Yamma-1,1,#REF!,,OMNI-N,
+141,T&M,THERMO,Saudi ,YAMAMA,Yamama Cement Co.,#REF!,Yamama Cement Co.,#REF!,Yamma-2,2,#REF!,,OMNI-N,
+142,NOT KNOWN,THERMO,Saudi ,NCC,National Cement Company,#REF!,National Cement Company,#REF!,NCC-1,1,#REF!,,OMNI,
+143,NOT KNOWN,THERMO,Saudi ,NCC,National Cement Company,#REF!,National Cement Company,#REF!,NCC-2,2,#REF!,,OMNI,
+144,NOT KNOWN,THERMO,Saudi,NCC,National Cement Company,#REF!,National Cement Company,#REF!,NCC-3,3,#REF!,,OMNI,
+145,Decom,THERMO,Senegal,VICAT,Sococim Cement Company,#REF!,Sococim Cement Company,#REF!,Sococim 1,1,#REF!,800064,BMA,
+146,Decom,THERMO,Senegal,VICAT,Sococim Cement Company,#REF!,Sococim Cement Company,#REF!,Sococim-2,2,#REF!,820083,CBGN,
+147,Decom,THERMO,Senegal,SAHEL,"Ciments du Sahel, Senegal",#REF!,"Ciments du Sahel, Senegal",#REF!,Sehal,1,#REF!,826021,FSA,
+148,SL-PSA,SPECTRA,Senegal,Dangote,DANGOTE CEMENT-SENEGAL,#REF!,DANGOTE CEMENT-SENEGAL,#REF!,DCP-SENEGAL,01,#REF!,82285,OMNI,
+149,NO GO ,NO GO ,Sudan,ATBARA,Atbara Cement Company,#REF!,Atbara Cement Company,#REF!,Atbara,1,#REF!,822171,OMNI,
+150,NO GO ,NO GO ,Sudan,BERBER,Berber Cement Company,#REF!,Berber Cement Company,#REF!,Berber,1,#REF!,822170,OMNI,
+151,NO GO ,NO GO ,Syria,Lafarge-Holcim,Lafarge Cement-Aleppo-Syria,#REF!,Lafarge-Syria,#REF!,Aleppo,1,#REF!,822217,OMNI,
+152,NO GO ,NO GO ,Syria,HAMA,Hama Cement Company,#REF!,Hama Cement,#REF!,Hama,1,#REF!,821039,CBX,
+153,SL/TF-PSA,SPECTRA,Turkey,AKCANSA,AKCANSA CEMENT- BUYUKCEKMECE PLANT,#REF!,AKCANSA CEMENT- BUYUKCEKMECE PLANT,#REF!,Buyuk-1,01,#REF!,826024,OMNI-R,
+154,SL/TF-PSA,SPECTRA,Turkey,AKCANSA,AKCANSA CEMENT- BUYUKCEKMECE PLANT,#REF!,AKCANSA CEMENT- BUYUKCEKMECE PLANT,#REF!,Buyuk-2,02,#REF!,824083,OMNI,
+155,SL/TF-PSA,SPECTRA,Turkey,AKCANSA,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,Chanakale-1,01,#REF!,826035,OMNI-R,
+156,SL/TF-PSA,SPECTRA,Turkey,AKCANSA,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,Chanakale-2,02,#REF!,824082,OMNI,
+157,WARRANTY,THERMO,Turkey,AKCANSA,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,Chanakale-3,3,#REF!,,OMNI,
+158,T&M,SPECTRA,Turkey,OYAK,OYAK-BOLU CEMENT,#REF!,OYAK-BOLU CEMENT,#REF!,Bolu-Bolu,1,#REF!,824079,CBX,
+159,T&M,SPECTRA,Turkey,OYAK,OYAK-BOLU ANKARA CEMENT,#REF!,OYAK-BOLU ANKARA CEMENT,#REF!,Bolu-Ankara,1,#REF!,891199,OMNI,
+160,T&M,THERMO,Turkey,OYAK,OYAK Aslan Cimento,#REF!,OYAK Aslan Cimento,#REF!,Kocaeli,1,#REF!,,OMNI,
+161,T&M,SPECTRA,Turkey,OYAK,OYAK-Adana Cement Company,#REF!,OYAK-Adana Cement Company,#REF!,Adana,1,#REF!,821078,CBX,
+162,T&M,SPECTRA,Turkey,OYAK,OYAK-Denizli Cement Plant,#REF!,OYAK-Denizli Cement Plant,#REF!,Denizli,1,#REF!,822268,OMNI,
+163,T&M,SPECTRA,Turkey,OYAK,OYAK-Mardin-Cement -New OMNI,#REF!,OYAK-Mardin-Cement -New OMNI,#REF!,Mardin-2,1,#REF!,822352,OMNI,
+164,NOT KNOWN,SPECTRA,Turkey,OYAK,OYAK-OYSA Nigde,#REF!,OYAK-OYSA Nigde,#REF!,Nigde,1,#REF!,825048,FSA,
+165,NOT KNOWN,SPECTRA,Turkey,OYAK,OYAK-Unye Cimentos ,#REF!,OYAK-Unye Cimentos ,#REF!,Unye,1,#REF!,820088,CBGN,
+166,T&M,SPECTRA,Turkey,CIMENTAS,Cimentas-Elazig Cement Company,#REF!,Cimentas-Elazig Cement Company,#REF!,Elazig,1,#REF!,821048,CBX,
+167,T&M,SPECTRA,Turkey,CIMENTAS,Cimentas-Izmir Cimento Frabrikasi,#REF!,Cimentas-Izmir Cimento Frabrikasi,#REF!,Izmir,1,#REF!,820039,CBA-GN,
+168,TF-PSA,THERMO,Turkey,CIMSA,Cimsa- Eskeshir- Cement,#REF!,Cimsa- Eskeshir- Cement,#REF!,Eskeshir,1,#REF!,821123,OMNI-R,
+169,TF-PSA,THERMO,Turkey,CIMSA,Cimsa-Marsin Cement,#REF!,Cimsa-Marsin Cement,#REF!,Marsin-1,1,#REF!,891105,OMNI,
+170,TF-PSA,THERMO,Turkey,CIMSA,Cimsa-Marsin Cement,#REF!,Cimsa-Marsin Cement,#REF!,Marsin-2,2,#REF!,891104,OMNI,
+171,TF-PSA,THERMO,Turkey,CIMSA,Cimsa-Keyseri Cement,#REF!,Cimsa-Keyseri Cement,#REF!,Keysire,1,#REF!,891103,OMNI,
+172,SL-PSA,SPECTRA,Turkey,LIMAK,Lemak-Sanliurfa Cement Plant,#REF!,Lemak-Sanliurfa Cement Plant,#REF!,Sanliurfa,01,#REF!,822221,OMNI,
+173,SL-PSA,SPECTRA,Turkey,LIMAK,Limak-Trakya Cement,#REF!,Limak-Trakya Cement,#REF!,Trakya,01,#REF!, ,OMNI,
+174,SL-PSA,SPECTRA,Turkey,LIMAK,Limak-Trakya (Ankara) Cement Plant,#REF!,Limak-Trakya (Ankara) Cement Plant,#REF!,Set  Ankara (Trakya),02,#REF!,821121,CBX,
+175,SL-PSA,SPECTRA,Turkey,LIMAK,Limak-Balikesir Cement,#REF!,Limak-Balikesir Cement,#REF!,Balikesir,01,#REF!,891112,OMNI,
+176,T&M,SPECTRA,Turkey,AS,AS Cement - Rawmix System-Line-1,#REF!,AS Cement - Rawmix System-Line-1,#REF!,AS 1,1,#REF!,821141,CBX,
+177,T&M,SPECTRA,Turkey,AS,AS Cement - Rawmix System-Line-2,#REF!,AS Cement - Rawmix System-Line-2,#REF!,AS 2,2,#REF!,821142,CBX,
+178,T&M,SPECTRA,Turkey,AS,AS Cement - Stockpile System,#REF!,AS Cement - Stockpile System,#REF!,AS 3,3,#REF!,821143,CBX,
+179,T&M,SPECTRA,Turkey,KIPAS,Kipas- Stockpile System,#REF!,Kipas- Stockpile System,#REF!,Kipas,1,#REF!,821144,CBX,
+180,T&M,SPECTRA,Turkey,NUH,Nuh Cement Compnay,#REF!,Nuh Cement Compnay,#REF!,NUH-1,1,#REF!,821012,CBX,
+181,T&M,SPECTRA,Turkey,NUH,Nuh Cement Compnay,#REF!,Nuh Cement Compnay,#REF!,NUH-2,2,#REF!,821013,CBX,
+182,Decom,SPECTRA,Turkey,NUH,Nuh Cement Compnay,#REF!,Nuh Cement Compnay,#REF!,Nuh,3,#REF!,820037,CBA,
+183,TF-PSA,THERMO,Turkey,GOLTAS,Goltas Cement Company,#REF!,Goltas Cement Company,#REF!,Goltas-1,,#REF!,822187,OMNI,
+184,TF-PSA,THERMO,Turkey,GOLTAS,Goltas Cement Company,#REF!,Goltas Cement Company,#REF!,Goltas-2,,#REF!,822188,OMNI,
+185,SL-PSA,SPECTRA,Turkey,ASKALE,Askale-Von Cement Plant,#REF!,Askale-Von Cement Plant,#REF!,Von,01,#REF!,822313,OMNI,
+186,SL-PSA,SPECTRA,Turkey,ASKALE,Askale-Erzurum-Cement Plant,#REF!,Askale-Erzurum-Cement Plant,#REF!,Erzurim,,#REF!,822319,OMNI,
+187,SL-PSA,SPECTRA,Turkey,ASKALE,Asakale-Gumushane Ceement Plant,#REF!,Asakale-Gumushane Ceement Plant,#REF!,Gumushane,,#REF!,822330,OMNI,
+188,TF-PSA,THERMO,Turkey,BATICEM,Baticem Cement Plant,#REF!,Baticem Cement Plant,#REF!,Baticem,1,#REF!,822337,OMNI,
+189,TF-PSA,THERMO,Turkey,BATISOKE,Batisoke Cement Plant,#REF!,Batisoke Cement Plant,#REF!,Batisoke-1,1,#REF!,823132,OMNI,
+190,TF-PSA,THERMO,Turkey,BATISOKE,Batisoke Cimento,#REF!,Batisoke Cimento,#REF!,Batisoke-2,2,#REF!,823133,OMNI-N,
+191,TF-PSA,THERMO,Turkey,BATISOKE,Batisoke Cimento,#REF!,Batisoke Cimento,#REF!,Batisoke-3,3,#REF!,891113,OMNI-N,
+192,T&M,THERMO,Turkey,YURT,Yurt Cimento San. Tic.A.S.,#REF!,Yurt Cimento San. Tic.A.S.,#REF!,Mus,1,#REF!,,OMNI,
+193,T&M,THERMO,Turkey,SYCS,SYCS-ELAZIG,#REF!,SYCS-ELAZIG,#REF!,SYCS-1,1,#REF!,,OMNI,
+194,T&M,THERMO,Turkey,SYCS,SYCS-ELAZIG,#REF!,SYCS-ELAZIG,#REF!,SYCS-2,2,#REF!,,OMNI,
+195,TFS-EU,THERMO,Ukraine,LATCEM,Altcem,#REF!,Altcem,#REF!,Krimfa,1,#REF!,,OMNI,
+196,TFS-EU,THERMO,Ukraine,Lafarge-Holcim,Holcim - Shurovo,#REF!,Holcim - Shurovo,#REF!,Shurovo,1,#REF!,,OMNI,
+197,TFS-EU,THERMO,Ukraine,Lafarge-Holcim,Holcim - Shurovo,#REF!,Holcim - Shurovo,#REF!,Shurovo,2,#REF!,,OMNI,
+198,SL-PSA,THERMO,Ukraine,IVANO,Ivano-Frankisk Cement,#REF!,Ivano Frankvisk,#REF!,Ukraine,01,#REF!,,OMNI,
+199,SL-PSA,THERMO,Ukraine,IVANO,Ivano-Frankisk Cement,#REF!,Ivano-Frankisk Cement,#REF!,Yamintsya,02,#REF!,,OMNI,
+200,TFS-EU,THERMO,Ukraine,IVANO,Ivano-Frankisk Cement,#REF!,Ivano-Frankisk Cement,#REF!,Yamintsya,3,#REF!,,EBA,
+201,TFS-EU,THERMO,Ukraine,PODILSKY,Podilsky Cement,#REF!,Podilsky Cement,#REF!,Kamenets,1,#REF!,,OMNI,
+202,TFS-EU,THERMO,Ukraine,PODILSKY,Podilsky Cement,#REF!,Podilsky Cement,#REF!,Kamenets,2,#REF!,,OMNI,
+203,TFS-EU,THERMO,Ukraine,PODILSKY,Podilsky Cement,#REF!,Podilsky Cement,#REF!,Kamenets,3,#REF!,,OMNI,
+204,TFS-EU,THERMO,Ukraine,Heidelberg,Heidelberg Cement,#REF!,Heidelberg Cement,#REF!,Kakanj Plant,1,#REF!,,O,
+205,T&M,THERMO,Uzbekistan,DAL,Dal Teknik,#REF!,Dal Teknik,#REF!,Uzbekistan,1,#REF!,,OMNI-N,
+206,NOT KNOWN,THERMO,Turkmenistan,KELETE,Kelete Cement Co.  ,#REF!,Kelete Cement Co.  ,#REF!,Kelete,1,#REF!,820115,CBGN,
+207,NOT KNOWN,THERMO,Turkmenistan,LEBAP,Lebap Cement Plant,#REF!,Lebap Cement Plant,#REF!,Lebap,1,#REF!,822269,OMNI,
+208,NOT KNOWN,THERMO,Turkmenistan,JEBEL,Jebel Cement Plant,#REF!,Jebel Cement Plant,#REF!,Jebel,1,#REF!,822253,OMNI,
+209,I&C,THERMO,Turkmenistan,BAHEDAN,Bahedan Cement,#REF!,Bahedan Cement,#REF!,BAHEDAN,1,#REF!,881123,OMNI,
+210,I&C,THERMO,Turkmenistan,BLIM MEKINA,Blim Mekina,#REF!,Blim Mekina,#REF!,Kelete,1,#REF!,881124,OMNI,
+211,TFS-RSA,THERMO,Tanzania,Heidelberg,Tanzania Port Land Cement ,#REF!,TPCC-Tanzania,#REF!,TPCC-1,1,#REF!,821130,CBX,
+212,TFS-RSA,THERMO,Tanzania,Heidelberg,Tanzania Port Land Cement ,#REF!,TPCC-Tanzania,#REF!,TPCC-2,2,#REF!,822289,OMNI,
+213,TFS-RSA,THERMO,Tanzania,Dangote,DANGOTE- CEMENT-TANZANIA,#REF!,Dangote Cement Plant-Tanzania,#REF!,MITWARA,1,#REF!,,OMNI,
+214,`T&M,THERMO,Tanzania,Afrisam,AFRISAM-TANZANIA,#REF!,Tanga Cement Plant,#REF!,Tanga,1,#REF!,,OMNI,
+215,TF-PSA,THERMO,Tunisia,SECIL,SECIL,#REF!,Ciment De Gebes,#REF!,Gabes,1,#REF!,825060,OMNI-R,
+216,TFS-RSA,THERMO,TOGO,Heidelberg,Scancem Togo cement,#REF!,Scancem Togo cement,#REF!,TOGO,1,#REF!, ,OMNI,
+217,T&M,SPECTRA,UAE,Lafarge-Holcim,"Lafarge-EMCC, Dubai",#REF!,"Lafarge-EMCC, Dubai",#REF!,EMCC,1,#REF!,821070,CBX,
+218,TF-PSA-EXP,THERMO,UAE,ARKAN,AMBC-1,#REF!,AMBC-1,#REF!,Al Ain-1,1,#REF!,822239,OMNI,
+219,TF-PSA-EXP,THERMO,UAE,ARKAN,AMBC-2,#REF!,AMBC-2,#REF!,Al Ain-2,2,#REF!,822241,OMNI,
+220,TF-PSA-EXP,THERMO,UAE,ARKAN,AMBC-3,#REF!,AMBC-3,#REF!,Al Ain-3,3,#REF!,822240,OMNI,
+221,TF-PSA-EXP,THERMO,UAE,ARKAN,AMBC-4,#REF!,AMBC-4,#REF!,Al Ain-4,4,#REF!,822242,OMNI,
+222,TF-PSA-EXP,SPECTRA,UAE,Aditya Birla,Star Cement Company,#REF!,Star Cement Company,#REF!,Star,1,#REF!,821115,OMNI-R,
+223,SL-PSA-EXP,SPECTRA,UAE,FCI,Fujairah Cement Co,#REF!,Fujairah Cement Co,#REF!,FUJAIRAH,01,#REF!,821153,CBX,
+224,TF-PSA,THERMO,UAE,SHARJAH,Sharjah Cement Company,#REF!,Sharjah Cement Company,#REF!,Sharajh,1,#REF!,822153,OMNI,
+225,T&M,SPECTRA,UAE,Pioneer,Pioneer Cement,#REF!,Pioneer Cement,#REF!,pioneer,1,#REF!, ,OMNI,
+226,SL-PSA,SPECTRA,UAE,JSW,JSW CEMENT COMP.,#REF!,JSW CEMENT COMP.,#REF!,JSW,1,#REF!, ,OMNI,
+227,NOT WORKING,SPECTRA,Yeman,AMRAN,Amran Cement Co. (IHI)-1,#REF!,Amran Cement Co. (IHI)-1,#REF!,Amran-1,1,#REF!,821007,CBX,
+228,NOT WORKING,SPECTRA,Yeman,AMRAN,Amran Cement Co. (IHI)-2,#REF!,Amran Cement Co. (IHI)-2,#REF!,Amran-2,2,#REF!,821008,CBX,
+229,SL-PSA,SPECTRA,South Africa,Afrisam,Afrisam-South Africa,#REF!,Afrisam-South Africa,#REF!,Dudfield,01,#REF!,,CBA-GN,
+230,SL-PSA,SPECTRA,South Africa,Afrisam,Afrisam-South Africa,#REF!,Afrisam-South Africa,#REF!,Ulco,01,#REF!,,CBX,
+231,TFS-RSA,THERMO,South Africa,Dangote,DANGOTE- CEMENT-SOUTH AFRICA,#REF!,DANGOTE- CEMENT-SOUTH AFRICA,#REF!,Sephaku ,1,#REF!,,OMNI,
+232,TFS-RSA,THERMO,South Africa,NATAL,Natal Portland Cement,#REF!,Natal Portland Cement,#REF!,Simuma,1,#REF!,,OMNI,
+233,TFS-RSA,THERMO,South Africa,PRETORIA,Pretoria Portland Cement,#REF!,PPC - De Hoek Plant,#REF!,De Hoek,1,#REF!,,OMNI,
+234,TFS-RSA,THERMO,South Africa,PRETORIA,Pretoria Portland Cement,#REF!,PPC Dwaalboom Plant,#REF!,Limpopo,1,#REF!,,OMNI,
+235,TFS-RSA,THERMO,South Africa,PRETORIA,Pretoria Portland Cement,#REF!,PPC Dwaalboom Plant,#REF!,Limpopo,2,#REF!,,OMNI,
+236,TFS-RSA,THERMO,Zambia,Dangote,DANGOTE- CEMENT-ZAMBIA,#REF!,DANGOTE- CEMENT-ZAMBIA,#REF!,DCP-ZAMBIA,1,#REF!,,OMNI,
+237,TFS-RSA,THERMO,Zambia,MPANDE,Mpande Limeston Limited,#REF!,Mpande Limeston Limited,#REF!,Mpande,1,#REF!,,OMNI,
+238,TFS-RSA,THERMO,Zambia,Lafarge-Holcim,Lafarge Cement- Zambia,#REF!,Lafarge Cement- Zambia,#REF!,Lafarge-Zambia,1,#REF!,,OMNI,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SN,STATUS,ACCOUNT,Country,GROUP,PARENT COMPANY NAME,PARENT COMPNAY CODE,Plant Name,PLANT CODE,Site Name,SITE CODE,System SN,Model
+1,SL-PSA,SPECTRA,Algeria,Lafarge-Holcim,LafargeHolcim-Algeria,#REF!,"Lafarge-Algerian Cement Co, (LCM)",#REF!,Hydra-1,#REF!,821002,CBX
+2,SL-PSA,SPECTRA,Algeria,Lafarge-Holcim,LafargeHolcim-Algeria,#REF!,"Lafarge-Algerian Cement Co, (LCM)",#REF!,Hydra-2,#REF!,821003,CBX
+3,SL-PSA,SPECTRA,Algeria,Lafarge-Holcim,LafargeHolcim-Algeria,#REF!,Lafarge-Ciba Cement Company-(LCO),#REF!,Ciba Grey,#REF!,821083,CBX
+4,SL-PSA,SPECTRA,Algeria,Lafarge-Holcim,LafargeHolcim-Algeria,#REF!,Lafarge--CILAS cement SPA (CILAS),#REF!,Cilas,#REF!,,OMNI
+5,SL-PSA,SPECTRA,Azerbaijan,NORM,Norm Cement Company,#REF!,Norm Cement Company,#REF!,Norm-1,#REF!,891119,OMNI
+6,SL-PSA,SPECTRA,Azerbaijan,NORM,Norm Cement Company,#REF!,Norm Cement Company,#REF!,Norm-2,#REF!,891120,OMNI
+7,SL-PSA,SPECTRA,Congo,Dangote,Dangote Cement-Congo,#REF!,Dangote Cement-Congo,#REF!,Congo,#REF!, ,OMNI
+8,TF-PSA,THERMO,Egypt,RAMLIYA,ACC-Ramliya Cement Company,#REF!,ACC-Ramliya Cement Company,#REF!,Ramliya,#REF!,825072,OMNI-R
+9,TF-PSA,THERMO,Egypt,AMREYAH,"Amreyah Cement Co.,Egypt",#REF!,"Amreyah Cement Co.,Egypt",#REF!,Amreyah,#REF!,826025,OMNI-R
+10,SL-PSA,SPECTRA,Ethiopia,Dangote,DANGOTE- CEMENT-ETHIOPEA,#REF!,DANGOTE CEMENT-ETHIOPEA,#REF!,DC-ETHIOPIA 1,#REF!,,OMNI
+11,SL-PSA,SPECTRA,Iraq,Lafarge-Holcim,Lafrage-Bazian Cement Company-Iraq,#REF!,Lafrage-Bazian Cement Company-Iraq,#REF!,Baizan,#REF!,821090,CBX
+12,TF-PSA,THERMO,Lebanon,SECIL,Ciment De Sibline Company ,#REF!,Ciment De Sibline Company ,#REF!,Sibline,#REF!,820036,OMNI-R
+13,TF-PSA,THERMO,Lebanon,Cimenterie,Cimenterie National Cement Company,#REF!,Cimenterie National Cement Company,#REF!,Chekka 2,#REF!,820050,OMNI-R
+14,TF-PSA,THERMO,Lebanon,Cimenterie,Cimenterie National Cement Company,#REF!,Cimenterie National Cement Company,#REF!,Chekka-4,#REF!,822307,OMNI
+15,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim -Settat-Cement Plant,#REF!,Settat-1,#REF!,821059,OMNI-R
+16,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim -Settat-Cement Plant,#REF!,Settat-2,#REF!,821060,OMNI-R
+17,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim -Fes-Cement Plant,#REF!,Fes-1,#REF!,822195,OMNI
+18,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim -Fes-Cement Plant,#REF!,Fes-2,#REF!,822196,OMNI
+19,TF-PSA,THERMO,Morocco,LafargeHolcim,Lafarge-Holcim Morocco,#REF!,Lafarge-Holcim-Oujda- Cement Plant,#REF!,Oujda,#REF!,825051,EBA
+20,SL-PSA,SPECTRA,Nigeria,Lafarge-Holcim,Lafarge-UCC-Calabar Cement Company,#REF!,Lafarge-UCC-Calabar Cement Company,#REF!,Calabar-1,#REF!,821066,CBX
+21,SL-PSA,SPECTRA,Nigeria,Lafarge-Holcim,Lafarge-UCC-Calabar Cement Company,#REF!,Lafarge-UCC-Calabar Cement Company,#REF!,Calabar-2,#REF!, ,OMNI
+22,SL-PSA,SPECTRA,Nigeria,Lafarge-Holcim,Lafarge-UCC-Calabar Cement Company,#REF!,Lafarge-UCC-Calabar Cement Company,#REF!,Calabar-3,#REF!, ,OMNI
+23,TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Obajana Cement Plant-Dangote,#REF!,Obajana-1,#REF!,821010,CBX-OMNI-R
+24,TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Obajana Cement Plant-Dangote,#REF!,Obajana-2,#REF!,822224,OMNI
+25,TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Obajana Cement Plant-Dangote,#REF!,Obajana-3,#REF!,821147,OMNI
+26,TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Nigeria-Obajana Cement Plant,#REF!,Obajana-4,#REF!,823207,OMNI
+27,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-1,#REF!,822202,OMNI
+28,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-2,#REF!,822203,OMNI
+29,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-3,#REF!,822204,OMNI
+30,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-4,#REF!,822205,OMNI
+31,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-5,#REF!,,OMNI
+32,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-6,#REF!,,OMNI
+33,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-7,#REF!,,OMNI
+34,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Ibessa Cement Plant,#REF!,Ibessa-8,#REF!,,OMNI
+35,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Benue Cement Company,#REF!,Benue-1,#REF!,822293,OMNI
+36,SL-PSA,SPECTRA,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Benue Cement Company,#REF!,Benue-2,#REF!,822294,OMNI
+37,SL/TF-PSA,THERMO,Nigeria,Dangote,Dangote Cement-Nigeria,#REF!,Dangote-Nigeria-Okapella Cement Plant,#REF!,Okapella,#REF!,,OMNI
+38,SL/TF-PSA,THERMO,Pakistan,Fauji foundation,FAUJI CEMENT CO.,#REF!,FAUJI CEMENT-Fateh Jhang,#REF!,FAUJI-1,#REF!,823110,OMNI
+39,TF-PSA,THERMO,Pakistan,Fauji foundation,Fauji Cement -Nizampur (Askari Cement),#REF!,Fauji Cement -Nizampur (Askari Cement),#REF!,Askari-1,#REF!,823129,OMNI
+40,TF-PSA,THERMO,Pakistan,Fauji foundation,Fauji Cement -Nizampur (Askari Cement),#REF!,Fauji Cement -Nizampur (Askari Cement),#REF!,Askari-2,#REF!,823130,OMNI
+41,TF-PSA,THERMO,Qatar,Al Khalij,Al Khalij cement-GCC-Doha,#REF!,Al Khalij cement-GCC-Doha,#REF!,GCC-1,#REF!,821150,CBX
+42,SL-PSA,SPECTRA,Saudi,NRCC,Norther Region Cement (NRCC),#REF!,Norther Region Cement (NRCC),#REF!,NRCC-1,#REF!,821100,CBX
+43,SL-PSA,SPECTRA,Saudi,NRCC,Norther Region Cement (NRCC),#REF!,Norther Region Cement (NRCC),#REF!,NRCC-2,#REF!,822321,OMNI
+44,TF-PSA,THERMO,Saudi ,UACC,UMM AL-QURA Cement Company (UACC),#REF!,UMM AL-QURA Cement Company (UACC),#REF!,UACC1,#REF!,981192,OMNI
+45,SL-PSA,SPECTRA,Senegal,Dangote,DANGOTE CEMENT-SENEGAL,#REF!,DANGOTE CEMENT-SENEGAL,#REF!,DCP-SENEGAL,#REF!,82285,OMNI
+46,SL/TF-PSA,SPECTRA,Turkey,AKCANSA,AKCANSA CEMENT- BUYUKCEKMECE PLANT,#REF!,AKCANSA CEMENT- BUYUKCEKMECE PLANT,#REF!,Buyuk-1,#REF!,826024,OMNI-R
+47,SL/TF-PSA,SPECTRA,Turkey,AKCANSA,AKCANSA CEMENT- BUYUKCEKMECE PLANT,#REF!,AKCANSA CEMENT- BUYUKCEKMECE PLANT,#REF!,Buyuk-2,#REF!,824083,OMNI
+48,SL/TF-PSA,SPECTRA,Turkey,AKCANSA,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,Chanakale-1,#REF!,826035,OMNI-R
+49,SL/TF-PSA,SPECTRA,Turkey,AKCANSA,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,AKCANSA CEMENT-CANAKKALE PLANT,#REF!,Chanakale-2,#REF!,824082,OMNI
+50,TF-PSA,THERMO,Turkey,CIMSA,Cimsa- Eskeshir- Cement,#REF!,Cimsa- Eskeshir- Cement,#REF!,Eskeshir,#REF!,821123,OMNI-R
+51,TF-PSA,THERMO,Turkey,CIMSA,Cimsa-Marsin Cement,#REF!,Cimsa-Marsin Cement,#REF!,Marsin-1,#REF!,891105,OMNI
+52,TF-PSA,THERMO,Turkey,CIMSA,Cimsa-Marsin Cement,#REF!,Cimsa-Marsin Cement,#REF!,Marsin-2,#REF!,891104,OMNI
+53,TF-PSA,THERMO,Turkey,CIMSA,Cimsa-Keyseri Cement,#REF!,Cimsa-Keyseri Cement,#REF!,Keysire,#REF!,891103,OMNI
+54,SL-PSA,SPECTRA,Turkey,LIMAK,Lemak-Sanliurfa Cement Plant,#REF!,Lemak-Sanliurfa Cement Plant,#REF!,Sanliurfa,#REF!,822221,OMNI
+55,SL-PSA,SPECTRA,Turkey,LIMAK,Limak-Trakya Cement,#REF!,Limak-Trakya Cement,#REF!,Trakya,#REF!, ,OMNI
+56,SL-PSA,SPECTRA,Turkey,LIMAK,Limak-Trakya (Ankara) Cement Plant,#REF!,Limak-Trakya (Ankara) Cement Plant,#REF!,Set  Ankara (Trakya),#REF!,821121,CBX
+57,SL-PSA,SPECTRA,Turkey,LIMAK,Limak-Balikesir Cement,#REF!,Limak-Balikesir Cement,#REF!,Balikesir,#REF!,891112,OMNI
+58,TF-PSA,THERMO,Turkey,GOLTAS,Goltas Cement Company,#REF!,Goltas Cement Company,#REF!,Goltas-1,#REF!,822187,OMNI
+59,TF-PSA,THERMO,Turkey,GOLTAS,Goltas Cement Company,#REF!,Goltas Cement Company,#REF!,Goltas-2,#REF!,822188,OMNI
+60,SL-PSA,SPECTRA,Turkey,ASKALE,Askale-Von Cement Plant,#REF!,Askale-Von Cement Plant,#REF!,Von,#REF!,822313,OMNI
+61,SL-PSA,SPECTRA,Turkey,ASKALE,Askale-Erzurum-Cement Plant,#REF!,Askale-Erzurum-Cement Plant,#REF!,Erzurim,#REF!,822319,OMNI
+62,SL-PSA,SPECTRA,Turkey,ASKALE,Asakale-Gumushane Ceement Plant,#REF!,Asakale-Gumushane Ceement Plant,#REF!,Gumushane,#REF!,822330,OMNI
+63,TF-PSA,THERMO,Turkey,BATICEM,Baticem Cement Plant,#REF!,Baticem Cement Plant,#REF!,Baticem,#REF!,822337,OMNI
+64,TF-PSA,THERMO,Turkey,BATISOKE,Batisoke Cement Plant,#REF!,Batisoke Cement Plant,#REF!,Batisoke-1,#REF!,823132,OMNI
+65,TF-PSA,THERMO,Turkey,BATISOKE,Batisoke Cimento,#REF!,Batisoke Cimento,#REF!,Batisoke-2,#REF!,823133,OMNI-N
+66,TF-PSA,THERMO,Turkey,BATISOKE,Batisoke Cimento,#REF!,Batisoke Cimento,#REF!,Batisoke-3,#REF!,891113,OMNI-N
+67,SL-PSA,THERMO,Ukraine,IVANO,Ivano-Frankisk Cement,#REF!,Ivano Frankvisk,#REF!,Ukraine,#REF!,,OMNI
+68,SL-PSA,THERMO,Ukraine,IVANO,Ivano-Frankisk Cement,#REF!,Ivano-Frankisk Cement,#REF!,Yamintsya,#REF!,,OMNI
+69,TF-PSA,THERMO,Tunisia,SECIL,SECIL,#REF!,Ciment De Gebes,#REF!,Gabes,#REF!,825060,OMNI-R
+70,SL-PSA-EXP,SPECTRA,UAE,FCI,Fujairah Cement Co,#REF!,Fujairah Cement Co,#REF!,FUJAIRAH,#REF!,821153,CBX
+71,TF-PSA,THERMO,UAE,SHARJAH,Sharjah Cement Company,#REF!,Sharjah Cement Company,#REF!,Sharajh,#REF!,822153,OMNI
+72,SL-PSA,SPECTRA,South Africa,Afrisam,Afrisam-South Africa,#REF!,Afrisam-South Africa,#REF!,Dudfield,#REF!,,CBA-GN
+73,SL-PSA,SPECTRA,South Africa,Afrisam,Afrisam-South Africa,#REF!,Afrisam-South Africa,#REF!,Ulco,#REF!,,CBX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SN,COMM CODE,COM./STAT,STATUS,ACCOUNT,Country,COUNTRY CODE-ISO,GROUP,PARENT COMPANY NAME,X,PARENT COMPNAY CODE,Plant Name,X,PLANT CODE,Site Name,X,SITE CODE,System SN,Model,System Type,Cf/Neg,Application,Belt Width(MM),Opcon-OS,Nautilus Version,OPCON Control Software,Site PLC Type,LD Stone Version,DSP Version,RPP Version,Sqr. Card Version,Remote OPCON,Spares   On-site,REMARKS,Year of I&C,Install & Start Date,Last visit,FSA,,PSA START,PSA END,YRS,VISITS,
+#REF!,11,PSA,SL-PSA,SPECTRA,Congo,COG,Dangote,Dangote Cement-Congo,01,COG01,Dangote Cement-Congo,01,COG0101,Congo,01,COG010101, ,OMNI,OMNI,Cf-252,SP,,,,,,,,,,,,,,,,,,1.2.2022,31.1.2023,1,1,
+#REF!,11,PSA,SL-PSA,SPECTRA,Ethiopia,ETH,Dangote,DANGOTE- CEMENT-ETHIOPEA,02,ETH02,DANGOTE CEMENT-ETHIOPEA,01,ETH0201,DC-ETHIOPIA 1,01,ETH020101,,OMNI,OMNI,Cf-252,SP,,,,Base Cement,,,,,,,,,2015/Q3,,,,,1.7.2023,30.6.2026,3,2,
+#REF!,21,PSA,SL/TF-PSA,THERMO,Nigeria,NGA,Dangote,Dangote Cement-Nigeria,02,NGA02,Dangote-Nigeria-Okapella Cement Plant,04,NGA0204,Okapella,01,NGA020401,,OMNI,OMNI,Cf-252,SP,,,,,,,,,,,,,,,,,,1.5.2023,30.4.2027,3,2,
+#REF!,10,PSA-X,SL-PSA,SPECTRA,Saudi,SUA,NRCC,Norther Region Cement (NRCC),6,SUA6,Norther Region Cement (NRCC),01,SUA601,NRCC-1,01,SUA60101,821100,CBX,CBX,Cf-252,SP,1400,,,Base Cement,,,,,,NO,YES,,2009/Q3,9/4/2009,,,,4/1/2022,3/31/2023,1,2,
+#REF!,10,PSA-X,SL-PSA,SPECTRA,Saudi,SUA,NRCC,Norther Region Cement (NRCC),6,SUA6,Norther Region Cement (NRCC),01,SUA601,NRCC-2,02,SUA60102,822321,OMNI,OMNI,Cf-252,SP,,,,,,,,,,NO,YES,,Q2/2013,June,,,,4/1/2022,3/31/2023,1,2,
+#REF!,11,PSA,SL-PSA,SPECTRA,Senegal,SEN,Dangote,DANGOTE CEMENT-SENEGAL,3,SEN3,DANGOTE CEMENT-SENEGAL,01,SEN301,DCP-SENEGAL,01,SEN30101,82285,OMNI,OMNI,Cf-252,SP,,,,,,,,,,,,,2015,,,,,1.2.2022,31.1.2025,3,2,
+#REF!,10,PSA-X,SL-PSA-EXP,SPECTRA,UAE,ARE,FCI,Fujairah Cement Co,4,ARE4,Fujairah Cement Co,01,ARE401,FUJAIRAH,01,ARE40101,821153,CBX,CBX,Cf-252,CHECK,,,,Base Cement,,,,,,NO,YES,,2010/Q1,Mach 2010,,,,,,,,
+#REF!,11,PSA,SL-PSA,SPECTRA,South Africa,ZAF,Afrisam,Afrisam-South Africa,1,ZAF1,Afrisam-South Africa,01,ZAF101,Dudfield,01,ZAF10101,,CBA-GN,CBA-GN,Cf-252,SP,,,,,,,,,,,,,,,,,,1.3.2023,28.2.2026,3,2,
+#REF!,11,PSA,SL-PSA,SPECTRA,South Africa,ZAF,Afrisam,Afrisam-South Africa,1,ZAF1,Afrisam-South Africa,02,ZAF102,Ulco,01,ZAF10201,,CBX,CBX,Cf-252,CHECK,,,,,,,,,,,,,,,,,,1.3.2023,28.2.2026,3,2,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIRST NAME,MIDDLE NAME,LAST NAME 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,100 @@
+{
+  "formData": {
+    "personalinfo": {
+      "firstName": "Muhammad",
+      "lastName": "Anas",
+      "profession": "frontend developer",
+      "cityState": "dera ghazi khan",
+      "postalCode": "33001",
+      "country": "Pakistan",
+      "phone": "03466273186",
+      "email": "anashamza457@gmail.com"
+    },
+    "workHistory": [
+      {
+        "jobTitle": "frontend developer",
+        "employmentPeriod": [
+          "2024-08-11T19:00:00.000Z",
+          "2025-12-11T19:00:00.000Z"
+        ],
+        "employer": "enegmatix",
+        "location": "bahawalpur",
+        "remote": true
+      },
+      {
+        "employmentPeriod": [
+          "2024-09-11T19:00:00.000Z",
+          "2024-09-11T19:00:00.000Z"
+        ],
+        "jobTitle": "frontend",
+        "employer": "enigmat",
+        "location": "bwp",
+        "remote": false
+      },
+      {
+        "employmentPeriod": [
+          "2024-01-11T19:00:00.000Z",
+          "2025-05-11T19:00:00.000Z"
+        ],
+        "jobTitle": "teaching students",
+        "employer": "Geeks Hub",
+        "location": "Abbottabad"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Metriculation",
+        "duration": [
+          "2024-09-11T19:00:00.000Z",
+          "2024-09-11T19:00:00.000Z"
+        ],
+        "institution": "comprehensive school",
+        "location": "dgkhan"
+      },
+      {
+        "employmentPeriod": [
+          null,
+          null
+        ],
+        "duration": [
+          "2024-09-11T19:00:00.000Z",
+          "2024-09-11T19:00:00.000Z"
+        ],
+        "degree": "Bs Computer Science",
+        "institution": "Islamia university Bahawalput",
+        "location": "Bahawalpur"
+      },
+      {
+        "employmentPeriod": [
+          null,
+          null
+        ],
+        "duration": [
+          null,
+          null
+        ],
+        "degree": "graducation",
+        "institution": "degree college",
+        "location": "dgkhan"
+      }
+    ],
+    "skills": [
+      {
+        "skill": "frontend",
+        "proficiency": "advanced",
+        "experience": 2
+      },
+      {
+        "skill": "backend",
+        "proficiency": "beginner",
+        "experience": 2
+      },
+      {
+        "skill": "react",
+        "proficiency": "advanced",
+        "experience": 2
+      }
+    ],
+    "summary": "As a passionate front-end developer, my objective is to leverage my skills in HTML, CSS, JavaScript, and modern frameworks like React to create intuitive, responsive, and user-friendly web applications. I aim to bridge the gap between design and functionality, delivering seamless user experiences while maintaining clean, maintainable code. My focus is on optimizing performance, ensuring cross-browser compatibility, and continuously learning new technologies to contribute to innovative projects that meet both user needs and business goals"
+  }
+}
